@@ -45,6 +45,7 @@ const IssuesPage = () => {
       close()
       setIssueName('')
       setIssueDescription('')
+      replay()
     }
   }
 
